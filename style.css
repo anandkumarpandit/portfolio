@@ -334,6 +334,7 @@ nav ul li a:hover::after{
 .contact-left
 {
     flex-basis: 35%;
+    
   
 }
 
@@ -348,7 +349,7 @@ nav ul li a:hover::after{
    
 }
 .contact-left p i{
-    color: #ff004f;
+    color:  #ff004f;
     font-size: 25px;
     margin-right: 10px;
 }
