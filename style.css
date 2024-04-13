@@ -418,8 +418,9 @@ nav .fas{
     .right-hero img{
         margin-top: 250px;
         height: 250px;
-        width: 250px;
-    } 
+        width: 250px; 
+    }
+    
     .header-text p{
         font-size: 18px;
         margin-left: 40px;
